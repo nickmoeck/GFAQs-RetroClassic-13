@@ -456,5 +456,11 @@ td.msg { padding: 0px !important }
 .content_nav li a { text-decoration: none !important; color: white !important; font-size: 12px !important; font-weight: bold !important; padding: 1px !important; box-shadow: none !important; background: none !important}
 .content_nav li a:hover { color: yellow !important; background: none !important }
 
+/* Homepage fixes */
+.container { width: auto !important }
+.page-header { margin-bottom: 18px !important }
+.span8 { width: calc(100% - 340px) !important }
+.span8 .page-header .page-title { text-align: left !important; }
+aside.span4 { width: 303px !important }
 
 }
