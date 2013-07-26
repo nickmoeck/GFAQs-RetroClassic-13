@@ -447,4 +447,14 @@ td.msg { padding: 0px !important }
 /* Fix poll topics */
 .board_poll { background: none !important; box-shadow: none !important }
 
+/* Header on game boards */
+/* Note: dropdowns stopped working... */
+#js_content_nav { background-color: #0000FF !important; text-align: center !important }
+.content_nav { width: auto !important; box-shadow: none !important; background: #0000FF !important; border-radius: 0px !important; margin: 0px auto !important }
+.content_nav_wrap { margin: 0px 2px 18px !important }
+.content_nav li { display: table-cell !important; padding: 0px 10px !important; }
+.content_nav li a { text-decoration: none !important; color: white !important; font-size: 12px !important; font-weight: bold !important; padding: 1px !important; box-shadow: none !important; background: none !important}
+.content_nav li a:hover { color: yellow !important; background: none !important }
+
+
 }
