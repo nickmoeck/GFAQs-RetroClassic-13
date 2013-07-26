@@ -460,7 +460,8 @@ td.msg { padding: 0px !important }
 .container { width: auto !important }
 .page-header { margin-bottom: 18px !important }
 .span8 { width: calc(100% - 340px) !important }
-.span8 .page-header .page-title { text-align: left !important; }
+.main_content .span8 .page-header .page-title { text-align: left !important; }
 aside.span4 { width: 303px !important }
 
+.ad { display: block !important; width: 100% !important; float:right !important; margin-top:-100px !important }
 }
